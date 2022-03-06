@@ -1,0 +1,19 @@
+body {
+  background-color: #FBF8F1;
+  font-family: serif;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+  height: 0px;
+  border-color: #E9DAC1;
+}
+h1 {
+  color: #24A19C;
+  font-family: Georgia, serif;
+}
+h2{
+  color: #54BAB9;
+  font-family: Georgia, serif;
+}
