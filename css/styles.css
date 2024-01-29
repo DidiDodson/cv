@@ -25,3 +25,9 @@ h4 {
   color:            #54BAB9;
   font-family:      Georgia, serif;
 }
+.profile-picture {
+  vertical-align: top;
+  text-align: top;
+  width: 100px;
+  height: 130px;
+}
